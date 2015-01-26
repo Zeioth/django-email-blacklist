@@ -1,12 +1,12 @@
 Django-email-blacklist
 ======================
 
-Python class for use with Django to detect Disposable Emails. Checks each email against a blacklist of ~890 domains used by various disposable email services.
+Python class for use with Django to detect Disposable Emails. Checks each email against a blacklist of ~890 domains used by various disposable email services. This package requires Python 3, for Python 2.7 support `see here. <https://github.com/aaronbassett/DisposableEmailChecker>`__
 
 Installation
 ------------
 
-Install it using ``pip``::
+Install it using ``pip`` and add it to  your Django INSTALLED_APPS::
     
     $ pip install django-email-blacklist
     
