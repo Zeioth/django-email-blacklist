@@ -23,7 +23,7 @@ Usage
 
 To use the checker in your own scripts::
 
-    >>> from disposable_email_checker import DisposableEmailChecker
+    >>> from django_email_blacklist import DisposableEmailChecker
     
     >>> email_checker = DisposableEmailChecker()
     >>> email_checker.is_disposable("foo@guerrillamail.com")
@@ -31,4 +31,4 @@ To use the checker in your own scripts::
 
 Credits
 --------
-This is a fork from DisposableEmailChecker by aaronbassett, mantained by Zeioth.
+This is a fork from DisposableEmailChecker by aaronbassett, maintained by Zeioth.

@@ -5,8 +5,8 @@ from setuptools import setup
 
 setup(
     name="django-email-blacklist",
-    packages=['django-email-blacklist'],
-    version="1.0.0",
+    packages=['django_email_blacklist'],
+    version="1.0.1",
     license='MIT',
     author='Zeioth',
     author_email='test@gmail.com',
