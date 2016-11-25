@@ -32,7 +32,7 @@ To use the checker in your own scripts::
 Updates
 -----------
 
--  Dec 2015: Stable release
+-  Jan 2015: Stable release
 -  Dec 2016: All it's working fine. No changes.
 
 Credits
