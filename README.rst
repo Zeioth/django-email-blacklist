@@ -29,12 +29,12 @@ To use the checker in your own scripts::
     >>> email_checker.is_disposable("foo@guerrillamail.com")
     True
 
-Credits
---------
-This is a fork from DisposableEmailChecker by aaronbassett, maintained by Zeioth.
-
 Updates
 -----------
 
 -  Dec 2015: Stable release
 -  Dec 2016: All it's working fine. No changes.
+
+Credits
+--------
+This is a fork from DisposableEmailChecker by aaronbassett, maintained by Zeioth.
