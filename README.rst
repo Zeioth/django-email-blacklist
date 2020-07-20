@@ -37,7 +37,7 @@ Updates
 -  Dec 2017: All it's working fine. No changes.
 -  Dec 2018: All it's working fine. No changes.
 -  May 2019: All it's working fine. No changes.
--  Jul 2019: All it's working fine. No changes.
+-  Jul 2020: All it's working fine. No changes.
 
 Credits
 --------
